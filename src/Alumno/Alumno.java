@@ -35,7 +35,6 @@ public class Alumno {
     public void setNota(double nota) {
         this.nota = nota;
     }
-  private String nombre;
-  private double nota = 0.0;
-  
+    private String nombre;
+    private double nota;
 }
